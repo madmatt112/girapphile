@@ -1,4 +1,6 @@
-# Graphile Starter
+# Girapphile
+
+![alt text](https://github.com/madmatt112/girapphile/blob/master/img/girapphile-Logo-Bottom.png?raw=true "Girraphile Logo")
 
 ## Purpose
 
