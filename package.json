@@ -1,8 +1,8 @@
 {
-  "name": "My_Project_Here",
+  "name": "girapphile",
   "version": "2.1.0",
   "private": true,
-  "description": "Description of project here",
+  "description": "My spin on graphile starter",
   "scripts": {
     "setup": "yarn && node ./scripts/setup.js",
     "start": "node ./scripts/start.js",
@@ -27,7 +27,7 @@
     "docker": "yarn --cwd ./docker",
     "docker-compose": "yarn --cwd ./docker compose"
   },
-  "author": "Benjie Gillam <code@benjiegillam.com>",
+  "author": "Matthew Field <fieldm58@gmail.com>",
   "license": "SEE LICENSE IN LICENSE.md",
   "dependencies": {
     "abort-controller": "^3.0.0",
